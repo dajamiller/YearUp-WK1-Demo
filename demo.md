@@ -1,4 +1,4 @@
-Hi,welcome to Year Up Code Academy!
+Hi, welcome to Year Up Code Academy!
 
 ## This is cool!
 
